@@ -2,7 +2,6 @@
 
 ### AI Engineer | Computer Engineering Student
 
-<img align="right" alt="Coding Illustration" width="350" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/assets/undraw_programming_2svr.svg">
 
 I'm a passionate AI Engineer who enjoys building intelligent systems, data-driven applications, and practical software solutions. I focus on exploring the full spectrum of Artificial Intelligence—from Data Analysis and Machine Learning to Deep Learning and Computer Vision—turning complex ideas into clean, working products.
 
