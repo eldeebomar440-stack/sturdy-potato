@@ -6,7 +6,7 @@
 
 I'm a passionate AI Engineer who enjoys building intelligent systems, data-driven applications, and practical software solutions. I focus on exploring the full spectrum of Artificial Intelligence—from Data Analysis and Machine Learning to Deep Learning and Computer Vision—turning complex ideas into clean, working products.
 
-- Currently working on ** Data Analysis ,Machine Learning,Deep Learning ,NLP ,LLMS **
+- Currently working on **Data Analysis, Machine Learning, Deep Learning, NLP, LLMs**
 - Currently learning & exploring **Deep Learning, Computer Vision (CV) & Neural Networks**
 - Working with **Python, TensorFlow, Keras, Scikit-Learn, Pandas & OpenCV**
 - Building applications using **FastAPI, Streamlit, C++ & SQL**
@@ -16,5 +16,5 @@ I'm a passionate AI Engineer who enjoys building intelligent systems, data-drive
 <br>
 
 ### Connect with me:
-Gmail: eldeebomar440@gmail.com
-linkedin:linkedin.com/in/omar-tarek-6b9611332
+- **Gmail:** eldeebomar440@gmail.com  
+- **LinkedIn:** [linkedin.com/in/omar-tarek-6b9611332](https://www.linkedin.com/in/omar-tarek-6b9611332)
